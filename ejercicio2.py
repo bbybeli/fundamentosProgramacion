@@ -11,6 +11,7 @@ Analisis:
 '''
 # input siempre regresa un string
 # para tratarlo como otro dato se debe convertir
+print("programa que calcula  area y perimetro de un rectangulo")
 base=input("Escribe la base del rectangulo:")
 base= int(base)
 altura=input("Escribe la altura del rectangulo:")
